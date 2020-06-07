@@ -41,7 +41,8 @@ Next, product Owner is the voice of the customer and hence is responsible for br
 Another very important part of the Scrum Team is the Development Team. The Development Team is consist of developers proficient in their own area.
 
 # Slide 11
-The next important part of scrum is artifacts: product and sprint backlog. The most important items are shown at the top of the product backlog so the team knows what to deliver first. 
+The next important part of scrum is artifacts: product and sprint backlog. 
+* A product backlog is a prioritized list of work for the development team that is derived from the roadmap and its requirements. The most important items are shown at the top of the product backlog so the team knows what to deliver first. 
 * The sprint backlog is a list of the most important tasks of the product backlog. This is a list of optimization tasks that the team will perform in the next sprint.
 
 # Slide 12
